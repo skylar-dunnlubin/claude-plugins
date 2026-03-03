@@ -19,12 +19,14 @@ Keep brainstorming focused — 2-3 minutes of alignment, not a full design doc. 
 
 ## Phase 2: Design (Apply Professional Aesthetics)
 
-With direction established, apply design intelligence from `ui-ux-pro-max` and `frontend-design` skills:
+With direction established, invoke external design skills for additional polish. Use the Skill tool to load `ui-ux-pro-max:ui-ux-pro-max` and `frontend-design:frontend-design` before proceeding. Apply their guidance to these decisions:
 
 - **Typography**: Select a distinctive font pairing that matches the content's voice. Never use Inter, Roboto, or system-ui as primary. Consider the pairing's personality — editorial serif for reviews, geometric sans for technical diagrams, monospace for terminal-aesthetic.
 - **Color palette**: Build a cohesive palette with CSS custom properties. Use semantic naming. Support both light and dark themes. Avoid Tailwind default purples, cyan-magenta-pink neon, and gradient text.
 - **Layout strategy**: Choose the spatial approach — CSS Grid cards, Mermaid diagrams, hybrid patterns, or split panels. Vary visual weight to create hierarchy (hero sections large and prominent, reference sections compact).
 - **Animation**: Plan entrance animations that guide the eye. Staggered fade-ins, scale reveals for KPIs. No glowing shadows, no pulsing effects.
+
+**Priority rule:** If guidance from `ui-ux-pro-max` or `frontend-design` conflicts with rules in the visual-explainer skill (forbidden fonts, forbidden colors, anti-slop constraints), the visual-explainer skill's rules take precedence.
 
 ## Phase 3: Generate (Visual Explainer Skill)
 
