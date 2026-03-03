@@ -1,0 +1,11 @@
+{
+  "name": "visual-explainer",
+  "version": "0.4.4",
+  "description": "Generate beautiful, self-contained HTML pages that visually explain systems, code changes, plans, and data. Transforms complex terminal output into styled, interactive browser pages with Mermaid diagrams, CSS Grid layouts, Chart.js dashboards, and anti-AI-slop aesthetics.",
+  "author": {
+    "name": "nicobailon"
+  },
+  "repository": "https://github.com/nicobailon/visual-explainer",
+  "license": "MIT",
+  "keywords": ["visualization", "diagrams", "html", "mermaid", "design"]
+}
