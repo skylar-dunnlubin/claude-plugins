@@ -1,5 +1,16 @@
 {
   "name": "skylar-dunnlubin-plugins",
   "description": "Personal Claude Code plugin marketplace",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "owner": {
+    "name": "skylar-dunnlubin"
+  },
+  "plugins": [
+    {
+      "name": "visual-explainer",
+      "description": "Generate beautiful, self-contained HTML pages that visually explain systems, code changes, plans, and data. 8 commands including diff-review, plan-review, project-recap, slides, and a full brainstorm-design-generate pipeline.",
+      "source": "./visual-explainer",
+      "category": "development"
+    }
+  ]
 }
