@@ -35,7 +35,7 @@ Load the visual-explainer skill and execute its full workflow:
 1. **Think** — commit to the aesthetic direction chosen in Phase 2
 2. **Structure** — read the appropriate reference templates and CSS patterns from the skill's resources
 3. **Style** — apply the typography, color, layout, and animation decisions from Phase 2
-4. **Deliver** — write to `~/.agent/diagrams/` and open in browser
+4. **Deliver** — write to `~/Desktop/Visual Explainer Pages/` and open in browser
 
 Follow all visual-explainer quality checks:
 - The squint test (hierarchy perceivable when blurred)

@@ -15,4 +15,4 @@ Follow the visual-explainer skill workflow. Read the skill's `templates/slide-de
 
 **Compositional variety:** Consecutive slides must vary their spatial approach. Alternate between centered, left-heavy, right-heavy, split, edge-aligned, and full-bleed. Three centered slides in a row means push one off-axis.
 
-Write to `~/.agent/diagrams/` and open the result in the browser.
+Write to `~/Desktop/Visual Explainer Pages/` and open the result in the browser.
