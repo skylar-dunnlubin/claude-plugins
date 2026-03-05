@@ -17,6 +17,12 @@
       "description": "Slash commands to invoke agents that lack their own commands. Covers brand-guardian, ceo-quality-controller, mobile-ux-optimizer, ux-researcher, visual-storyteller, and accessibility-expert.",
       "source": "./agent-commands",
       "category": "productivity"
+    },
+    {
+      "name": "feature-design",
+      "description": "Full-pipeline feature design: idea → inventory scan → agent validation → build → review. Includes spec-from-code for generating formal specs from implemented features.",
+      "source": "./feature-design",
+      "category": "development"
     }
   ]
 }

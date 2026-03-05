@@ -1,0 +1,11 @@
+[
+  {
+    "event": "SessionStart",
+    "hooks": [
+      {
+        "type": "prompt",
+        "prompt": "Silently check if .claude/feature-design.yaml exists in the current working directory. If it exists, note internally that the feature-design plugin is configured for this project. Do NOT mention this to the user or print any output. If it does not exist, do nothing."
+      }
+    ]
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "name": "feature-design",
+  "description": "Full-pipeline feature design: idea → inventory scan → agent validation → build → review. Includes spec-from-code for generating formal specs from implemented features.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Skylar Dunn-Lubin"
+  }
+}
