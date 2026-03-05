@@ -1,0 +1,5 @@
+{
+  "name": "agent-commands",
+  "description": "Slash commands to invoke agents that lack their own commands. Covers brand-guardian, ceo-quality-controller, mobile-ux-optimizer, ux-researcher, visual-storyteller, and accessibility-expert.",
+  "version": "1.0.0"
+}

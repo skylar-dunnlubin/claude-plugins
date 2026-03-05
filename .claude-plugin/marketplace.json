@@ -11,6 +11,12 @@
       "description": "Generate beautiful, self-contained HTML pages that visually explain systems, code changes, plans, and data. 8 commands including diff-review, plan-review, project-recap, slides, and a full brainstorm-design-generate pipeline.",
       "source": "./visual-explainer",
       "category": "development"
+    },
+    {
+      "name": "agent-commands",
+      "description": "Slash commands to invoke agents that lack their own commands. Covers brand-guardian, ceo-quality-controller, mobile-ux-optimizer, ux-researcher, visual-storyteller, and accessibility-expert.",
+      "source": "./agent-commands",
+      "category": "productivity"
     }
   ]
 }
